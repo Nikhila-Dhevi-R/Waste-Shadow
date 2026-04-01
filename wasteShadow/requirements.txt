@@ -1,0 +1,7 @@
+flask
+mongita
+openpyxl
+pypdf
+numpy
+pillow
+rapidocr-onnxruntime
